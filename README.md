@@ -3,4 +3,4 @@ Samuel Esteban Hernandez Rodriguez
 SECCION:1006
 ASIGNATURA:tecnologia
 PROFESOR:Frank Edier Gonzales Buitrago
-DESCRIPCION:este repositorio es para poder los camandos basicos en git
+DESCRIPCION:este repositorio es para poder entender los camandos basicos en git
