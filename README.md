@@ -1,6 +1,6 @@
 # PRIMER_REPOSITORIO
-Samuel Esteban Hernandez Rodriguez
+NOMBRE:Samuel Esteban Hernandez Rodriguez
 SECCION:1006
-ASIGNATURA:tecnologia
+ASIGNATURA:Tecnologia
 PROFESOR:Frank Edier Gonzales Buitrago
 DESCRIPCION:este repositorio es para poder entender los camandos basicos en git
